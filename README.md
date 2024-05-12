@@ -56,17 +56,9 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Alternate Parts — Substitute items if needed </br>
 •	Repair Guides — Component removal, orientation info </br>
 •	Diagnostics — Expected voltages, signal values </br>
-
-# Circuit Diagram
-
-
-
-
-# Output
-
-
-
-
+# Output:
+!(![embbeded](https://github.com/premsuryas/Bill-of-Materials-for-PCB-Design/assets/147473858/63ce7131-36c7-42e0-809d-68c490397c66)
+)
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
