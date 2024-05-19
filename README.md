@@ -57,6 +57,8 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Repair Guides — Component removal, orientation info </br>
 •	Diagnostics — Expected voltages, signal values </br>
 # Output:
+!![Screenshot 2024-05-19 105953](https://github.com/premsuryas/Bill-of-Materials-for-PCB-Design/assets/147473858/629d7877-8b19-4fac-b5bd-dcfb35650ec4)
+()
 !(![embbeded](https://github.com/premsuryas/Bill-of-Materials-for-PCB-Design/assets/147473858/63ce7131-36c7-42e0-809d-68c490397c66)
 )
 
